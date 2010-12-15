@@ -1,4 +1,3 @@
-
 public class Hello
 {
     
@@ -14,6 +13,7 @@ public class Hello
     {
         System.out.println("ci giamo?");
         print();
+        System.out.println("fore no");
         
     }
     
